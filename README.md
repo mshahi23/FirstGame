@@ -2,6 +2,9 @@
 
 by Manan
 
+## Demo The Game!
+https://play.unity.com/mg/other/manan-s-first-game
+
 ## What is Manan's Test FPS?
 The game is a first-person shooter. The player wins when the targets scattered across the level have been shot within a minute. If the player fails to do so within a minute they lose. Some of the targets might be hard to find and require minor amounts of platforming.
 
